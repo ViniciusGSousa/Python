@@ -12,7 +12,6 @@ __*Exercicíos em Python pelo Colab*__
 - [ ] *Ex 1 ao 16*
 ---
 **Listas**
-[exercícios](ExVetores.ipynb)
 
-- [x] *Vetores*
+- [x] *Vetores -* [exercícios](ExVetores.ipynb)
 - [ ] *Matrizes*
