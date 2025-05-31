@@ -14,4 +14,4 @@ __*Exercicíos em Python pelo Colab*__
 **Listas**
 
 - [x] *Vetores -* [exercícios](ExVetores.ipynb)
-- [ ] *Matrizes*
+- [x] *Matrizes -* [exercícios](ExMatrizes.ipynb)
